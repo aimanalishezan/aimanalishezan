@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [MAN.AI CHATBOT](https://github.com/aimanalishezan/Chatbot_Gradio)
 
-- 🌱 I’m currently learning **DEEP LEARNING,LLM,TENOSRFLOW,LANGCHAIN**
+- 🌱 I’m currently learning **DEEP LEARNING,LLM,FINE-TUNING,PROMPT-TUNING,CUSTOM CHATBOT**
 
-- 👨‍💻 All of my projects are available at [https://aimanalishezan.wixsite.com/data-scientist](https://aimanalishezan.wixsite.com/data-scientist)
+- 👨‍💻 All of my projects are available at [https://aimanalishezan.wixsite.com/data-scientist](https://aiman-portfolio-mu.vercel.app/)
 
 - 💬 Ask me about **DATA SCIENCE | DEEP LEARNING**
 
