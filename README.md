@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aimanalishezan" alt="aimanalishezan" /></a> </p>
 
-- 🔭 I’m currently working on [MAN.AI CHATBOT](https://github.com/aimanalishezan/ChatBOt.git)
+- 🔭 I’m currently working on [MAN.AI CHATBOT](https://github.com/aimanalishezan/Chatbot_Gradio)
 
 - 🌱 I’m currently learning **DEEP LEARNING,LLM,TENOSRFLOW,LANGCHAIN**
 
