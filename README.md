@@ -32,11 +32,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimanalishezan&show_icons=true&locale=en&layout=compact" alt="aimanalishezan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanalishezan&show_icons=true&locale=en" alt="aimanalishezan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanalishezan&" alt="aimanalishezan" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanalishezan&show_icons=true&locale=en" alt="aimanalishezan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanalishezan&" alt="aimanalishezan" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanalishezan&show_icons=true&locale=en" alt="aimanalishezan" /></p>
+
