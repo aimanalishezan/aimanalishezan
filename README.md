@@ -2,7 +2,7 @@
 
 
 <h1 align="center">HI I'M MD AIMAN ALI SHEZAN</h1>
-<h3 align="center">A PASSIONATE DATA SCIENTIST AND MACHINE LEARNING ENGINEER | NATIVE ANDROID DEVELOPER FROM BANGLADESH</h3>
+<h3 align="center">A PASSIONATE DATA SCIENCE AND AI AUTOMATION ENGINEER | NATIVE ANDROID DEVELOPER FROM BANGLADESH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanalishezan&label=Profile%20views&color=0400ff&style=flat" alt="aimanalishezan" /> </p>
 
