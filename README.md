@@ -1,4 +1,4 @@
-![My_banner](https://github.com/user-attachments/assets/9fad9f24-038c-4020-ac89-2b28bfa1457f)
+
 
 <h1 align="center">Hi, I'm MD Aiman Ali Shezan</h1>
 <h3 align="center">Data Science & AI Automation Engineer | Native Android Developer from Bangladesh</h3>
