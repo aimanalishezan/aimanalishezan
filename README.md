@@ -17,7 +17,7 @@
 
 - 🔭 Currently building **AI automation tools, intelligent agents, and full-stack applications**
 - 🌱 Learning **Deep Learning, LLMs, Fine-Tuning, Prompt Tuning, RAG, and Custom Chatbots**
-- 👨‍💻 Portfolio: [aiman-portfolio-mu.vercel.app](https://aiman-portfolio-mu.vercel.app/)
+- 👨‍💻 Portfolio: [aiman-portfolio-mu.vercel.app](https://www.mdaimanalishezan.site/)
 - 💬 Ask me about **Data Science, Deep Learning, LLM Applications, and AI Automation**
 - 📫 Email: **aimanalishezanbusiness@gmail.com**
 - ⚡ Fun fact: **I think I was born to build AI-man**
